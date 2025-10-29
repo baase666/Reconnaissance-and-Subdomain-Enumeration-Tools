@@ -1,23 +1,8 @@
 # -Reconnaissance-and-Subdomain-Enumeration-Tools
 
-Reconnaissance and Subdomain Enumeration Tools
-
-    Subfinder
-    GitHub Repository
-    Installation:  
-
-              
-
 go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 
       
-
-SubProber
-GitHub Repository
-Installation:  
-
-          
-
 git clone https://github.com/RevoltSecurities/SubProber.git
 pip install .
 
